@@ -1,4 +1,5 @@
 #!/bin/sh
+PATH="$HOME/opt/cross/bin:$PATH"
 set -e
 . ./headers.sh
 
